@@ -2,6 +2,20 @@
 
 Robs4Crops is a four-year project co-funded by the European Commission to accelerate the shift towards the large-scale implementation of robotics and automation across the European farming landscape.
 
+# Setting up the project
+
+To set up the project, you need to follow the steps below:
+
+1. launch [Farmsim](https://github.com/robs4crops/farmsim)
+2. launch [Farmbot](https://github.com/farmbot-ros)
+3. launch the [Fields2cover API](https://github.com/Fields2Cover/Fields2Cover/pull/188)
+4. launch the [FarmingController](https://github.com/robs4crops/farmingcontroller)
+5. optionally launch the [Farmingcontroller front-end](https://github.com/robs4crops/farmingcontroller_frontend)
+
+The architecture will be as follows:
+
+![](setup_architecture.png)
+
 # Papers
 
 Fountas, S., Malounas, I., Athanasakos, L., Avgoustakis, I., & Espejo-Garcia, B. (2022). AI-Assisted Vision for Agricultural Robots. AgriEngineering, 4(3), 674-694.
@@ -29,6 +43,23 @@ Tamirat, T. W., Pedersen, S. M., Ørum, J. E., & DeJonghe, L. (2023). Cost benef
 Tamirat, T. W., Pedersen, S. M., Ørum, J. E., & Holm, S. H. (2023). Multi-stakeholder perspectives on field crop robots: lessons from four case areas in Europe. Smart Agricultural Technology, 4, 100143. doi: https://doi.org/10.1016/j.atech.2022.100143
 
 Van Evert, F. K., Avgoustakis, G., Baron, S., Bresilla, T., Dritsopoulos, T., Fountas, S., et al. (2024). Implementing a digital twin for flexible operation of agricultural robotics. In E. van Henten & Y. Edan (Eds.), Advances in Agri-Food Robotics Hb: Advances in Agri-Food Robotics: Burleigh Dodds Science Publishing Limited. Available online at https://dx.doi.org/10.19103/AS.2023.0124.28.
+
+# Citation
+
+If you use this work, please cite it as below.
+
+```bibtex
+@inbook{VanEvert2024,
+    author = {F. K. Van Evert and G. Avgoustakis and S. Baron and T. Bresilla and T. Dritsopoulos and S. Fountas and et al.},
+    title = {Implementing a digital twin for flexible operation of agricultural robotics},
+    year = {2024},
+    editor = {E. van Henten and Y. Edan},
+    booktitle = {Advances in Agri-Food Robotics Hb: Advances in Agri-Food Robotics},
+    publisher = {Burleigh Dodds Science Publishing Limited},
+    url = {https://dx.doi.org/10.19103/AS.2023.0124.28}
+}
+
+```
 
 # Acknowledgement
 
