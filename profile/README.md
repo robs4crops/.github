@@ -30,7 +30,8 @@ Papantonatou, M.-Z., Papadopoulos, G., Fountas, S., Uyar, H., & Van Evert, F. (2
 
 Paraforos, D. S., Aubé, C., Athanasakos, L., Avgoustakis, I., Baron, S., Bresilla, T., et al. (2022). Connecting agricultural robots and smart implements by using ISO 11783 communication. IFAC-PapersOnLine. , 55(32), 200-205. doi: https://doi.org/10.1016/j.ifacol.2022.11.139
 
-Rizzo, C., & Rascón, J. F. (2024). Leveraging Behavior Trees for Hybrid Autonomous Navigation in Seasonal Agricultural Environments Paper presented at the 7th Iberian Robotics Conference (ROBOT24).
+Rascón, J.F., Reverté, P., Ruiz, X., Sanches, M., Serrano, D., Rizzo, C (2024). Leveraging Behavior Trees for Hybrid Autonomous Navigation in Seasonal Agricultural Environments. Paper presented at the 7th Iberian Robotics Conference (ROBOT24).
+Available at https://eventos.upm.es/getFiles/hash/OhZjZmNGMzQWMiJGOxYjZkNmNlVjZ1UmMgTOjdjNiND:NzVmaEhsQk8xTEZrWGh6VlE0WWo0cjh1c3VhekJ2QkNVZVQ1ZGgzZkkyNm9oOGE5Y1NKMW5yZm5iRzZRTVZRaEdLZTBmWVpRdG9YaWN1NlZZNmhhalRMbGdNNDlaVURsY1JpcHVIV1JYZXdHT0RSc2VpWFBnNDZPaElsSUcyRTRldXpQZFhLOTRhMFVzVHlKVWhkTDQ1eGYxTko2b2RXMzltYVgzZ0l1a1B5c3JMWllCdS9kTlNhY2ZJSThRK011a2R3ZUYrZnU3L090b3FZb0ZrZDNkUlFTK05ZME5vS3ZQZFd0cUZybkJQa0NDTE9tOTM0K1VzMk1kenlpQlJaYVQ3Z2VZdDFIYzR4dnBJcWZqUTZTZmc9PQ==
 
 Sharipov, G., Bresilla, T., Nieuwenhuizen, A., Hemming, J., Van Evert, F. K., Aubé, C., et al. (2023). Communication between agricultural robot and mechanical weeding machine based on ISO 11783 network. Paper presented at the IFAC 2023. Available at https://doi.org/10.1016/j.ifacol.2023.10.093, Japan
 
